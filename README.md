@@ -2,19 +2,19 @@
 Interactive UI elements built using HTML, CSS, and JavaScript — including dropdown menus, modal dialogs, and form validation.
 Dynamic Web Interactions with JavaScript
 
-A collection of interactive UI components built using HTML, CSS, and vanilla JavaScript, demonstrating how to add dynamic behavior to modern web pages.
+A collection of interactive UI components built using HTML, CSS, and vanilla JavaScript, demonstrating how to add dynamic behavior to modern web pages. 
 
 🚀 Project Overview
 
-This project showcases three essential interactive elements used in front-end development:
+This project showcases three essential interactive elements used in front-end development: 
 
 1. Interactive Dropdown Menu
 
-A dynamic dropdown navigation menu that uses JavaScript to toggle visibility and update navigation output.
+A dynamic dropdown navigation menu that uses JavaScript to toggle visibility and update navigation output. 
 
 2. Modal Dialog Box
 
-A clean and responsive modal window triggered using JavaScript event listeners and DOM manipulation.
+A clean and responsive modal window triggered using JavaScript event listeners and DOM manipulation. 
 
 3. Form with Validation
 
@@ -64,7 +64,7 @@ Open CVLT3index.html in any browser.
 
 Interact with the dropdown, modal, and form.
 
-🎯 Learning Outcome
+🎯 Learning Outcome 
 
 This project strengthens understanding of:
 
@@ -74,8 +74,8 @@ Event handling
 
 CSS layout techniques
 
-Creating interactive components without frameworks
+Creating interactive components without frameworks 
 
-🤝 Acknowledgments
+🤝 Acknowledgments 
 
-This project was built as part of the CodeVeda Internship – Task 3: Introduction to JavaScript.
+This project was built as part of the CodeVeda Internship – Task 3: Introduction to JavaScript. 
