@@ -21,7 +21,7 @@ A clean and responsive modal window triggered using JavaScript event listeners a
 A functional form that validates user input in real time, ensuring required fields are filled and formats are correct.
 
 These components are designed to improve user experience and help beginners understand how JavaScript interacts with the DOM.
-
+    
 📁 Folder Structure
 ├── Task 3
 │   ├── CVLT3index.html
