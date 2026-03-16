@@ -78,4 +78,4 @@ Creating interactive components without frameworks
 
 🤝 Acknowledgments 
 
-This project was built as part of the CodeVeda Internship – Task 3: Introduction to JavaScript. 
+This project was built as part of the CodeVeda Internship – Task 3: Introduction to JavaScript.  
