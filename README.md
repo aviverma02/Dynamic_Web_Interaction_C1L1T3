@@ -70,7 +70,7 @@ This project strengthens understanding of:
 
 DOM manipulation
  
-Event handling
+Event handling 
 
 CSS layout techniques
 
