@@ -68,7 +68,7 @@ Interact with the dropdown, modal, and form.
 
 This project strengthens understanding of:
 
-DOM manipulation
+DOM manipulation 
  
 Event handling 
 
