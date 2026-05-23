@@ -76,6 +76,6 @@ CSS layout techniques
 
 Creating interactive components without frameworks 
 
-🤝 Acknowledgments  
+🤝 Acknowledgments 
 
 This project was built as part of the CodeVeda Internship – Task 3: Introduction to JavaScript.  
