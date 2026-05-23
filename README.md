@@ -8,7 +8,7 @@ A collection of interactive UI components built using HTML, CSS, and vanilla Jav
 
 This project showcases three essential interactive elements used in front-end development: 
  
-1. Interactive Dropdown Menu
+1. Interactive Dropdown Menu 
 
 A dynamic dropdown navigation menu that uses JavaScript to toggle visibility and update navigation output.   
 
